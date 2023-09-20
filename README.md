@@ -6,7 +6,7 @@ https://qrp-labs.com/qdx.html
 
 I designed a pcb adapter to be soldered on QDX transceiver PCB instead of BS170 mosfets to convert Mosfet PA to FDT86256 PA mosfets.
 
-This Github repository contains all the information needed to carry on this PA modification.
+This Github repository contains all the information needed to carry out this PA modification.
 
 Enjoy!
 
